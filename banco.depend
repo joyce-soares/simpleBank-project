@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623332975 source:d:\curso dev\estudo linguagem c\banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
